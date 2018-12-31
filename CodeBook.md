@@ -4,6 +4,7 @@ This code book summarizes the resulting data fields in tidydata.txt, with 180 ro
 Measurements
 Mean
 Standard Deviation
+
 Variables
 subjectId
 activityId
@@ -87,6 +88,8 @@ fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 activityType
+
+
 Activity Labels
 WALKING
 WALKING_UPSTAIRS
